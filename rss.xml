@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sofia Angelina Photography]]></title>
         <description><![CDATA[Sofia Angelina Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sofia-angelina-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 18:59:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 16 Jun 2016 19:00:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sofia-angelina-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Body Beautiful Project</p>]]></description>
-            <link>undefinedthe-body-beautiful-project/index.html</link>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/367ba1d1f4dca971a25a1747a211d99d/croprotate.jpg?cropheight=4928&cropwidth=3262&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1c83983d-a164-4e21-8bcf-88821973331a.jpg&x=0&y=0" alt="" title="">]]></description>
+            <link>https://thegrid.ai/sofia-angelina-photography/the-body-beautiful-project/index.html</link>
             <guid isPermaLink="false">4ce1843f-a790-4823-b93e-99b0e5a42325</guid>
-            <pubDate>Thu, 16 Jun 2016 18:58:52 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2016 19:00:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
