@@ -1,0 +1,28 @@
+name: Sofia Angelina Photography
+favicon: null
+layout_spectrum: 0.6259871497750282
+typography_spectrum: 0.5601058918982744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8540094483178109
+  lightness: 0.8445187420584261
+  saturation: 0.8032494999933988
+  rhythmicContrast: 0.6119422351475805
+purpose: []
