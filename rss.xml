@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sofia Angelina Photography]]></title>
+        <description><![CDATA[Sofia Angelina Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 16 Jun 2016 18:59:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Body Beautiful Project</p>]]></description>
+            <link>undefinedthe-body-beautiful-project/index.html</link>
+            <guid isPermaLink="false">4ce1843f-a790-4823-b93e-99b0e5a42325</guid>
+            <pubDate>Thu, 16 Jun 2016 18:58:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
